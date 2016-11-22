@@ -1,0 +1,345 @@
+Insurance Application Decision Tree
+Intro:
+Hi there! We’re excited to help you with your insurance, but I know you probably aren’t quite as excited to tell us everything we’ll need to know. We try to make it simple, but it is a lot of questions. Just remember that when everything is going horribly wrong and things are literally on fire, our insurance companies step in to save the day with a huge check. That’s a big commitment, and they need to know what they’re getting into! So go grab a coffee, settle in, grab a hold of something and we’ll get through this as easily as we can!
+Basic Info
+First Named Insured
+Any related insureds that are not majority owned by first named insureds?
+If so then list
+If not, nothing
+Reminder that JVs must be listed separately – any JVs they are responsible for insuring?
+Name, address, ownership %, other partners and %s.
+Legal Address (is this a physical location?)
+Entity type (Corp, LLC, Partnership, Sole Proprietorship, Non-Profit, Other)
+Desired Effective Date
+Option for asap
+Business Phone
+Website
+Years in Business
+Primary Contact Name
+Primary Contact Email
+Primary Contact Phone
+How many locations do you have? (may simplify early on and ask more questions if select property coverage)
+Input box for addresses, auto-fill one with mailing address and make primary if selected that as a physical address
+Do we need to prove to anyone that you have insurance (like a lender or landlord?)
+Name, Address, Email to send to (can be contact)
+Loan number, serial number or other thing to mention?
+Do they ask for any of these things? (don’t say yes unless they do, because sometimes they cost extra)
+Waiver of Subrogation
+Additional insured
+Mortgagee
+Loss Payee
+Primary and Non-contributory
+After enter one, ask if have any others
+Do you currently have insurance?
+Carrier, how long been with them
+Have you filed any claims in the last 5 years on your insurance
+Include note that this is the most time-consuming part of the process
+Confirm no known losses
+If losses provide estimate of payout and number of claims
+Can provide old policy numbers, carriers and permission to provide loss runs
+Pop up that will quote based on provided answers but carrier may request official loss runs before binding, if different will affect pricing
+Ask if any of the coverages are claims-made (normally only applies to professional, D&O, crime, etc)
+If so, do they know when they first purchased the coverage (store and explain retro dates)
+Acord 125 questions (check if any apply), details box pops up if yes
+Are you a subsidiary of another entity
+Parent co, relationship, what % owned
+Is there a formal safety program in place?
+Safety manual, monthly meetings, osha-specific, other
+Any exposure to flammables, explosives or chemicals?
+Any coverage cancelled or non-renewed in last three years?
+Why?
+Any past losses related to sexual abuse or molestation allegations, discrimination or negligent hiring?
+During last 5 years any indictment or conviction for fraud, bribery, or arson?
+What happened?
+Any uncorrected fire or safety code violations?
+What happened and has it been corrected? Include date or plans to correct.
+Any bankruptcy or foreclosure in the last 5 years?
+What happened and has it been corrected? Include date or plans to correct.
+Any court judgement in last 5 years?
+What happened and has it been corrected? Include date or plans to correct.
+Has business been placed in a trust?
+Any foreign operations?
+Trigger foreign questionnaire
+Any related ventures that you aren’t requesting coverage for?
+What are they? Do they carry their own insurance?
+What type of company are you?
+Manufacturer
+Professional
+Medical Services
+Construction
+Technology/Publisher
+Real Estate
+What Lines do you need?
+End each with assumed coverages terms (they can change, but suggested is standard)
+Package (only offer together)
+If real estate company
+Ask about maintenance program
+Property
+If one
+Address, Inside/Outside city limits/Owner or tenant/ sq footage/annual revenues/sprinklers/description or occupancy/age/construction type
+If age > 10 years ask renovation ages for wiring, HVAC, roof, Plumbing
+Values
+Are you responsible for insuring the building (most owners yes, most tenants no) If so, what is replacement cost (with note explaining)
+Offer to calculate value per square foot or they can enter
+Do you have inventory?
+Major seasonal fluctuation?
+No – just give max value
+Yes, provide average and maximum and timeline
+BPP? This is usually the same as Furniture, Fixtures and Equipment on your balance sheet (include furniture, tenant buildout, equipment, etc
+BI/EE - if small enough usually get unlimited for free
+$1M
+Worksheet
+Custom Value
+If multiple
+Cookie cutter or unique?
+Cookie cutter give us a template and addresses and we’ll auto-fill and you can adjust on the next page
+For values, get blanket values for revenue and BPP and split evenly. Offer to do so for value
+Security/Protection
+Burglar alarm?
+Central Station?
+Guards?
+24-hour?
+Armed?
+Off-duty cops?
+Uniformed?
+Any other security measures?
+Remarks box, fully fenced, lighting, security cameras, etc
+Teaser questions
+
+Property assumed terms
+Special all-risk cause of loss
+Replacement cost valuation
+Blanket building limit
+Blanket BPP limit
+100% co-insurance/agreed value
+$1,000 per occurrence deductible (wind/hail/eq/flood may differ)
+Extension/Platinum/Extend endorsement requested
+Care, Custody and Control on if-any basis
+GL
+Do you do just one thing (pull from initial description and show GL code to see if they think that doesn’t define them broadly enough) or many different things?
+If many things, ask for GL code for the next thing
+If many things ask if have separate operating subsidiaries
+If so what are names and what are ownership percentages for each
+If many different things do you do them all at all your locations?
+Projected annual revenues?
+If multiple locations offer to split equally or they can split how they like among locations
+If multiple GL codes ask about splitting by locations
+Select GL code that best describes them (incorporate code search based on overall sector selection
+If real estate can pull sq ft from property section
+GL assumed terms
+$1M per occurrence/$2M agg (note that higher limits are from umbrella, so max out 1/2
+$1M Products liability
+$1M personal/advertising injury
+$300K Fire Legal
+$5K Medical Expenses
+If have employees (can pull from WC or main section) then
+$1M EBL
+$1,000 per claim deductible
+No GL deductible
+GL accord questions
+Only for contractors, otherwise N/A
+Do you draw plans, designs or specifications for others?
+Do your operations include blasting or utilize or store explosive material?
+Do any operations include excavation, tunneling, underground work or earth moving?
+If they have subcontractors:
+And they request certificates
+Do your subcontractors carry coverages or limits less than yours?
+“Are subcontractors allowed to work without providing a certificate of insurance” can answer yes or no based on required certificate question
+Do you install, service or demonstrate any products?
+Are any foreign products sold, distributed or used as components, if so
+What is it?
+Do you have a written contract with the supplier holding you harmless and indemnifying you for losses caused by the foreign product? (Purchase orders don’t count)
+Do you purchase foreign products through a US-based entity (importer)
+If so, do they indemnify you?
+What percentage of revenue is attributable to foreign goods?
+Any R&D or fundamentally new products planned?
+New flavors/colors/etc don’t count – really new products
+If not answered under foreign section, do you have contracts with your suppliers?
+Do those contracts have guarantees, warranties or hold-harmless agreements?
+Do you provide guarantees, warranties or hold-harmless agreements to your customers?
+Any products related to aircraft/space industry?
+Any products recalled, discontinued or changed in last 3 years?
+Do you sell any products produced by others under your own label/branding?
+Are your products resold by any other entities under their label or branding?
+
+Are products consumable?
+If so go into whole food products supplement
+Any named insured sell to other insureds?
+Any medical facilities provided or medical professionals employed or contracted?
+Any exposure to radioactive/nuclear materials?
+Any past/present or discontinued operations related to storing, treating, discharging, applying, fdisposing or transporting hazardous material?
+Any operations sold, acquired or discontinued last 5 years?
+Do you loan any machinery or equipment to others?
+Do you own, lease or regularly hire any boats, docks or watercraft
+Do you own any parking facilities for which a fee is charged?
+Do you have any recreational facilities
+Is there a swimming  pool on premises?
+Do you sponsor any sporting or social events (other than occasional employee celebrations)
+Any structural alterations or renovations contemplated?
+Any demolition expected?
+Pull joint ventures from initial info
+Do you lease employees to or from other employers
+If so PEO or other arrangement?
+Is there a labor interchange with any other businesses?
+Any daycare facilities operated or controlled?
+Any crimes on premises within last 3 years?
+Is there a formal, written safety and security policy in effect?
+Upload copy if available
+Does the website or marketing materials make any representation about the safety or security of the premises?
+Subcontracting section (standalone since it applies to GL, E&O and D&O)
+Do you subcontract out any of your work? If so,
+What percentage of revenue is subcontracted? Ie what is annual contractor spend
+What sort of tasks are subcontracted?
+Use response to evaluate whether to ask about E&O or just GL/auto/etc
+Is it always corporate entities or do you have independent contractors?
+If you do use independents is it important for them to be covered as insureds, or ok just to cover your vicarious responsibility?
+Do you require certificates of insurance for all subcontractors, just corporate ones (not independents) or just certain classes or sizes?
+Have tooltip showing a picture of what a cert looks like
+Checkboxes for corporate/ICs, description box for description of classes
+If not all subs, what percentage of revenue from subs without certs?
+Do you actually track certificates, or just require in contracts?
+If so do you use a service like myCOI, certificate depot, etc or do you have an internal process?
+Do you have a written contract with all subcontractors?
+Is it always the same?
+Does it include indemnification/hold harmless?
+Does it require them to have certain insurance limits?
+Has it been reviewed by internal or external counsel?
+If not, what % of subcontracts aren’t the standard agreement?
+If not, what are normally the reasons for a different contract?
+They’re bigger?
+They independent?
+Workers Compensation
+E&O
+Is MPL needed in addition to the core MPL?
+Ask about data custody to determine if E&O and cyber are closely entwined enough to require combined placement
+Workers Comp
+FEIN
+Foreign
+BTA
+K&R
+Table of expected trips
+# trips, avg and max employee count per conveyance
+Pull info on any in-country ongoing ops
+Any past incidents?
+Crime
+Pull location count and employee count
+Pull independent contractor count
+Control questions
+Does employee who reconciles monthly bank statements also sign checks or handle deposits?
+If so any extra controls in place?
+Are pre-employment reference checks completed for all employees
+If not at least for financial employees (accounting, etc)
+What about independent contractors?
+Are credit checks completed for all employees?
+If not at least for financial employees (accounting, etc)
+What about independent contractors?
+Do you have physical inventory?
+If so how often do you do physical check/count
+Who does it?
+DO you have a list of authorized vendors
+Is a procedure in place to verify vendors exist and aren’t owned by employees before putting them on the list?
+Does the same person who verifies vendors have authority to update the list
+Do you verify invoices against corresponding purchase order and master list before issuing payment
+DO you strictly comply with dual-recorded authorization for all outgoing wire transfers
+Any independent contractors have custody over any funds?
+If so are they subject to same controls as employees?
+Do you want 3rd-party crime?
+Do you have any custody or control over any funds or materials of clients?
+Any past incidents?
+Builders Risk
+OPPI
+Media Liability
+Cyber
+D&O
+Lift name, address, contact name, website from general info
+Confirm not limited partnership, or any subsidiaries act as GP for any other entities (JVs)?
+If so pull Chubb separate app
+Want D&O?
+State of incorporation
+Lift years of operation from general info
+Lift any unrelated subsidiaries/other activities from GL section
+Pull number of employees from WC
+Do you have any in-house counsel? If so how many?
+Pull annual revenues from general info
+Request copy of financial docs
+Most recent YE audited income statement and balance sheet if available
+Most recent interim income sheet
+Most recent interim balance sheet
+Most recent cap table showing diluted ownership
+Open input sheet for list of board members
+Include area to indicate what shareholders they represent
+Any bankruptcy or layoff in last 12 months or expected next 18?
+Any reorg or bankruptcy arrangement in last 12 months?
+Any expected next 18 months?
+Any closings, workforce reductions, layoffs, etc last 12 months?
+Any expected next 18 months?
+Currently in compliance with all debt covenants and been so last 12 months?
+Within last 5 years has any person to be insured been involved in circumstances related to:
+Anti-trust, copyright or patent litigation?
+Deceptive trade practices or consumer fraud?
+Alleged or actual violation of securities laws?
+Any criminal actions?
+Any other claim brought against the isnured entity or any individual in his or her capacity as a director or officer of any entity?
+Any recent or planned transactions? If so
+What date (actual or approximate)
+Any public or private security offerings last 12 months?
+Any change in directors or officers
+Proforma or pre-post transaction financials
+Most recent YE audited income statement and balance sheet if available
+Most recent interim income sheet
+Most recent interim balance sheet
+Most recent cap table showing diluted ownership
+Open input sheet for list of board members
+Include area to indicate what shareholders they represent
+Stock deal or asset deal?
+If asset deal did/will seller buy a tail policy? How long?
+If stock deal ask for loss history or warranty
+
+EPLI?
+Table of employee count for current and previous year
+Full time us employees
+Part time US (including seasonal)
+Full time California employees
+Part-time California employees
+US independent contractors
+Employees outside the US
+Second table of percentage of salary ranges current and previous year
+Up to 60K
+61K – 120K
+120K+
+Written Policies and procedures
+Equal Opportunity Employer
+Anti-discrimination
+Anti-sexual harassment
+If no to any, would you be willing to implement within 60 days?
+In last 3 years any EEOC letter, employment-related civil suits over $10K
+Fiduciary?
+Do you have a retirement plan?
+What are assets?
+How many participants
+Is it a 401k?
+Is management of choosing funds outsourced?
+
+What is the name of the plan (note normally is named insured 401k plan)
+Is it a defined benefit plan
+Probably have laundry list of questions here
+DO you have an ESOP?
+ESOP questions
+Do you have any other plans where the entity acts as a fiduciary of funds for employees?
+Ay pklans not in compliuance with plan agreements or ERISA?
+Any merged, terminated or frozen plans in last 3 years?
+Any fiduciaruies accused of breach of trust or criminal conduct?
+Any fees assessed by the IRS, DOL or any other governmental entity?
+
+Employed Lawyers
+Need signature at end – probably use acord wording. Will likely need separate signatures for warranty statement
+Thoughts on storage – each question will need to point to some data field in a database. If that question comes up elsewhere in the discussion, a good way to see whether the question is needed or not is to do a data-pull to see if that data-field is nil. If so then need to ask the question, if not then can skip it because we already have the answer
+Additional feature would be to incorporate feature to pull in old data for renewal and do a simpler update
+Nice to have dictionary feature that explains definition/usage of insurance terms when hover over it
+Remember to add details/comments area where appropriate for yes/no answers
+Automatic requests
+Vendors coverage
+Blanket waiver of subro
+Blanket AI with written contract
+Primary/non-contrib
+30 days NOC

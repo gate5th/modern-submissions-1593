@@ -1,0 +1,315 @@
+
+
+/*
+ * Globals
+ */
+
+#mainArea {
+  padding-bottom: 40px;
+  background-color: var(--color5);
+  height: 90%;
+}
+/* Links */
+
+a,
+a:focus,
+a:hover
+{
+    color: #fff;
+}
+
+/* Color Palette */
+
+.color1
+{
+    color: #9F9E9C;
+}
+
+.color2
+{
+    color: #C7C2BF;
+}
+
+.color3
+{
+    color: #E3D1BD;
+}
+
+.color4
+{
+    color: #C0A48F;
+}
+
+.color5
+{
+    color: #765F51;
+}
+
+:root
+{
+    --color1: #9F9E9C;
+    --color2: #C7C2BF;
+    --color3: #E3D1BD;
+    --color4: #C0A48F;
+    --color5: #765F51;
+}
+
+/* Custom default button */
+
+.btn-default,
+.btn-default:hover,
+.btn-default:focus
+{
+    color: #333;
+    text-shadow: none;
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+
+/*
+ * Base structure
+ */
+
+html
+{
+    position: relative;
+    min-height: 100%;
+    background-color: var(--color5);
+}
+
+body
+{
+    color: white;
+    text-align: center;
+    text-shadow: 0 1px 3px rgba(0,0,0,.5);
+    margin-bottom: 40px;
+}
+
+footer
+{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #333;
+}
+
+h1
+{
+    color: var(--color3);
+    font-size: 48px;
+}
+
+
+#logo
+{
+    float: left;
+    top: 80px;
+    left: 260px;
+}
+
+#pickIndustry{
+
+  background: var(--color4);
+  margin-left:auto;
+  margin-right:auto;
+  width:inherit;
+  border-radius: 6px;
+  white-space: nowrap;
+
+
+}
+
+#pickIndustry > li {
+  color:var(--color3);
+  display:inline-block;
+  /*visibility: hidden;*/
+  font-size: 16px;
+  font-weight: bold;
+  padding: 0 1em;
+  margin: 0px -3px;
+}
+
+#pickIndustry > li:first-child {
+margin-left:-40px;
+}
+
+/* Extra markup and styles for table-esque vertical and horizontal centering */
+
+.progress{
+  margin-bottom:0px;
+}
+
+.site-wrapper
+{
+    display: table;
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    -webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+    box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+}
+
+.site-wrapper-inner
+{
+    display: table-cell;
+    min-height: 100%;
+    vertical-align: top;
+}
+
+.cover-container
+{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* Padding for spacing */
+
+.inner
+{
+    padding: 50px;
+    background-color: #333;
+}
+
+.landing-header
+{
+    padding: 50px;
+    background-color: #333;
+}
+
+/*
+ * Header
+ */
+
+.masthead-brand
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.masthead-nav > li
+{
+    display: inline-block;
+}
+
+.masthead-nav > li + li
+{
+    margin-left: 20px;
+}
+
+.masthead-nav > li > a {
+  padding-right: 0;
+  padding-left: 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff; /* IE8 proofing */
+  color: rgba(255,255,255,.75);
+  border-bottom: 2px solid transparent;
+}
+
+.masthead-nav > li > a:hover,
+.masthead-nav > li > a:focus {
+  background-color: transparent;
+  border-bottom-color: #a9a9a9;
+  border-bottom-color: rgba(255,255,255,.25);
+}
+
+.masthead-nav > .active > a,
+.masthead-nav > .active > a:hover,
+.masthead-nav > .active > a:focus
+{
+    color: #fff;
+    border-bottom-color: #fff;
+}
+
+@media (min-width: 768px)
+{
+    .masthead-brand
+    {
+        float: left;
+    }
+    .masthead-nav
+    {
+        float: right;
+        display: inline-block;
+    }
+}
+
+/*
+ * Cover
+ */
+
+.cover
+{
+    padding: 0 20px;
+    background-color: rgba(0,0,0,0.4);
+    vertical-align: middle;
+}
+
+.cover .btn-lg
+{
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+/*
+ * Footer
+ */
+
+.mastfoot {
+  color: #999; /* IE8 proofing */
+  color: rgba(255,255,255,.5);
+
+}
+
+/*
+ * Affix and center
+ */
+
+@media (min-width: 768px)
+{
+/* Pull out the header and footer */
+    .masthead
+    {
+        position: fixed;
+        top: 0;
+    }
+    .mastfoot
+    {
+        position: fixed;
+        bottom: 0;
+        width: 100vw;
+    }
+/* Start the vertical centering */
+    .site-wrapper-inner
+    {
+        vertical-align: middle;
+        background: url("img/B&WRestaurant.jpg");
+        background-size: cover;
+        height: 100vh;
+    }
+/* Handle the widths */
+    .masthead,
+  .mastfoot,
+  .cover-container
+    {
+        width: 100%;
+    }
+}
+
+@media (min-width: 992px)
+{
+    .masthead,
+  .mastfoot,
+  .cover-container
+    {
+        width: 700px;
+    }
+}
+
+.logo
+{
+    position: absolute;
+    right: 80px;
+    top: 90px;
+}
